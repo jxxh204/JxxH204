@@ -28,12 +28,14 @@ B2B CRM · 인플루언서 마케팅 · 실시간 미디어 · 하드웨어 교�
 
 | | |
 |:--|:--|
-| [**opentask**](https://github.com/jxxh204/opentask) | Claude Code 에이전트를 git worktree 단위로 병렬 실행하고 관제하는 데스크탑 앱. "AI가 스스로 작업 범위를 넓히지 않는다"를 코드로 강제 |
-| [**portfolio**](https://github.com/jxxh204/portfolio) | Mac OS 9 데스크톱 셸로 만든 포트폴리오·블로그. Next.js 15, Notion CMS, Cloudflare Workers |
+| [**jaehwankim.dev**](https://jaehwankim.dev) | Mac OS 9 데스크톱 셸로 만든 포트폴리오·블로그. Next.js 15, Notion CMS, Cloudflare Workers |
 | [**NeowFocus**](https://github.com/jxxh204/NeowFocus) | 지금 집중해야 할 단 하나의 태스크만 보여주는 뽀모도로 macOS 앱 → [App Store](https://apps.apple.com/kr/app/neowfocus/id6751244958) |
-| [**marty-ilbo**](https://github.com/jxxh204/marty-ilbo) | 채용공고·날씨·프론트 소식을 공개 API로 모아 매일 아침 신문 레이아웃으로 보내는 개인 일간지 |
-| [**esp32-webrtc-cam**](https://github.com/jxxh204/esp32-webrtc-cam) | ESP32-S3 카메라 영상을 브라우저로 WebRTC 스트리밍. 디바이스가 시그널링까지 직접 서빙해 외부 서버가 없음 |
 | [**claude-code-monitor**](https://github.com/jxxh204/claude-code-monitor) | Claude Code 사용량 실시간 데스크탑 위젯. Tauri v2 · Rust |
+| [**streamdeck-mcp**](https://github.com/jxxh204/streamdeck-mcp) | Stream Deck을 Claude Code MCP 서버로. SVG 아이콘·프로필·태스크 컨텍스트 연동 |
+| [**claude-rpg**](https://github.com/jxxh204/claude-rpg) | Claude Code 설정 시스템을 RPG 게임 UI로 시각화하는 웹 앱 |
+| [**v8-engine-study**](https://github.com/jxxh204/v8-engine-study) | V8의 Full-CodeGen · Crankshaft · TurboFan 역사를 따라 구현해 보는 스터디 |
+
+그 밖에 AI 코딩 에이전트를 git worktree 단위로 병렬 실행·관제하는 데스크탑 앱(OpenTask)과 ESP32-S3 WebRTC 카메라를 만들고 있습니다.
 
 #### 글과 발표
 

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+<title id="title">JaeHwan Kim — Frontend Engineer</title><desc id="desc">A classic Macintosh About window, with a smiling computer and the words Performance, Real-time Web, Developer Tools.</desc>
+<defs><pattern id="desktop" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="#ccccff"/><path d="M0 0h1v1H0zM2 2h1v1H2z" fill="#9999bb"/></pattern><pattern id="stripes" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 1h4" stroke="#808080"/></pattern></defs>
+<rect width="960" height="300" fill="url(#desktop)"/>
+<rect x="29" y="29" width="908" height="248" fill="#262626"/>
+<rect x="23" y="23" width="908" height="248" fill="#ccc" stroke="#262626" stroke-width="2"/>
+<path d="M25 269V25h904" fill="none" stroke="white" stroke-width="2"/>
+<rect x="33" y="31" width="888" height="22" fill="url(#stripes)"/>
+<rect x="43" y="33" width="17" height="17" fill="#ddd" stroke="#262626"/><path d="M45 48V35h13" fill="none" stroke="white"/>
+<rect x="365" y="29" width="230" height="25" fill="#ccc"/>
+<text x="480" y="47" text-anchor="middle" font-family="monospace" font-size="16" fill="#262626">About JaeHwan</text>
+<rect x="33" y="61" width="888" height="198" fill="#fff" stroke="#808080"/>
+<g transform="translate(68 90)">
+<path d="M0 0h100v112H0z" fill="#ccc" stroke="#262626" stroke-width="3"/><path d="M3 109V3h94" fill="none" stroke="#fff" stroke-width="3"/>
+<rect x="12" y="12" width="76" height="65" fill="#ccccff" stroke="#262626" stroke-width="3"/>
+<path d="M34 30v9m31-9v9M50 37v14h-7m-10 7q18 16 36 0" fill="none" stroke="#333399" stroke-width="3"/>
+<path d="M58 94h28" stroke="#262626" stroke-width="4"/><rect x="13" y="91" width="9" height="7" fill="#333399"/>
+<path d="M-8 116h116l8 16H-16z" fill="#ddd" stroke="#262626" stroke-width="3"/><path d="M6 124h82" stroke="#808080" stroke-width="3"/>
+</g>
+<text x="207" y="104" font-family="monospace" font-size="13" letter-spacing="2" fill="#666">HELLO, I'M</text>
+<text x="204" y="161" font-family="Georgia, serif" font-size="54" letter-spacing="-2" fill="#262626">JaeHwan Kim.</text>
+<text x="208" y="195" font-family="Arial, sans-serif" font-size="20" fill="#333399">Frontend Engineer</text>
+<text x="208" y="228" font-family="monospace" font-size="13" fill="#666">Performance · Real-time Web · Developer Tools</text>
+<g transform="translate(788 103)" fill="none" stroke="#333399" stroke-width="2"><path d="M0 0h28l10 10h36v52H0z" fill="#ccccff"/><path d="M0 15h74"/><path d="m23 30-8 8 8 8m27-16 8 8-8 8m-16 5 6-30"/></g>
+<text x="825" y="190" text-anchor="middle" font-family="monospace" font-size="12" fill="#666">Selected work</text>
+</svg>
